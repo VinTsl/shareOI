@@ -8,15 +8,9 @@
 
 不便之处，敬请谅解
 
-## 贡献者
+**贡献者**
 
-[hzwer](https://github.com/hzwer)
-
-[Ruanxingzhi](https://github.com/Ruanxingzhi)
-
-[Trinkle23897](https://github.com/Trinkle23897)
-
-[StudyingFather](https://github.com/StudyingFather)
+[hzwer](https://github.com/hzwer) [Ruanxingzhi](https://github.com/Ruanxingzhi) [Trinkle23897](https://github.com/Trinkle23897) [StudyingFather](https://github.com/StudyingFather)
 
 ## 推荐阅读
 [洛谷日报](https://www.luogu.com.cn/discuss/show/179788)
