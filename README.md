@@ -8,7 +8,7 @@
 
 不便之处，敬请谅解
 
-## Contributor
+## 贡献者
 
 [hzwer](https://github.com/hzwer)
 
@@ -18,7 +18,16 @@
 
 [StudyingFather](https://github.com/StudyingFather)
 
-## Contents
+## 推荐阅读
+[洛谷日报](https://www.luogu.com.cn/discuss/show/179788)
+
+[OI-wiki](https://github.com/OI-wiki/OI-wiki/)
+
+[OIslide by n+e](https://github.com/Trinkle23897/oi_slides)
+
+[NOIP吧资料](http://tieba.baidu.com/p/3257519559)
+
+## 目录
 
     ├── 图论
     │   ├── 图论_李煜东.pptx
